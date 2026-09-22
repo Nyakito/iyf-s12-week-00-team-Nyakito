@@ -17,7 +17,7 @@ This is week 00 Team collaboration and it majorly tests on git and GitHub, we wi
 
 ## MEMBER SECTIONS
 - Git
-##What is Git
+## What is Git
 
 Git is a **distributed version control system** designed to track, manage, and organize changes made to files—especially source code—throughout the life of a software project. Instead of having to manually create copies of a project such as `project-final`, `project-final-2`, `project-final-REAL`, and `project-final-USE-THIS-ONE`.
 
