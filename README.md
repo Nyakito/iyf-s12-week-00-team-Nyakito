@@ -7,11 +7,7 @@
 
 ## Project Description
 
-
 **This project is a Team collaboration done in week 00 that tests on git and GitHub, here we see how to Pull Requests,Merge, Review Changes and collaborate in one document,as we work together as a team, which is a very practical way of learning collaboration.**
-
-This is week 00 Team collaboration and it majorly tests on git and GitHub, we will see how to Pull Requests,Merge, Review Changes and collaborate in one document, working together as a team, which is a very practical way of learning collaboration.
-
 
 ## Technologies Used
 - Markdown (Markup Language)
@@ -21,7 +17,7 @@ This is week 00 Team collaboration and it majorly tests on git and GitHub, we wi
 
 ## MEMBER SECTIONS
 - Git
-##What is Git
+## What is Git
 
 Git is a **distributed version control system** designed to track, manage, and organize changes made to files—especially source code—throughout the life of a software project. Instead of having to manually create copies of a project such as `project-final`, `project-final-2`, `project-final-REAL`, and `project-final-USE-THIS-ONE`.
 
