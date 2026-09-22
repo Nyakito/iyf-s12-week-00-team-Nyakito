@@ -7,7 +7,7 @@
 
 ## Project Description
 
-**This is week 00 Team collaboration and it majorly tests on git and GitHub, we will see how to Pull Requests,Merge, Review Changes and collaborate in one document, working together as a team, which is a very practical way of learning collaboration.**
+**This project is a Team collaboration done in week 00 that tests on git and GitHub, here we see how to Pull Requests,Merge, Review Changes and collaborate in one document,as we work together as a team, which is a very practical way of learning collaboration.**
 ---
 ## Technologies Used
 - Markdown (Markup Language)
