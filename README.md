@@ -60,7 +60,21 @@ In practice, Git becomes the backbone of a developer's workflow:
 
 ---
 - VsCode
+
+Visual Studio Code (VS Code) is a free source-code editor developed by Microsoft. It is commonly used by developers to write, edit, and manage code for different programming languages and technologies. VS Code supports features such as syntax highlighting, extensions, debugging, Git integration, and an integrated terminal.
+
+### Useful VS Code Features
+
+* **Extensions** — add extra functionality and support for different programming languages and tools.
+* **Integrated Terminal** — allows developers to run commands directly inside VS Code.
+* **Source Control** — provides a graphical interface for working with Git.
+* **IntelliSense** — provides code suggestions and helps developers write code more efficiently.
+* **Debugging** — helps developers find and fix errors in their programs.
+
+VS Code is particularly useful for web development because it supports technologies such as **HTML, CSS, and JavaScript**. It can also work with **Git and GitHub**, making it easier to edit files, manage changes, and collaborate with other developers.
+
 ---
+
 - HTML
 
 **HTML(HyperText Markup Language)** is the standard language used to build and structure web pages on the internet. It is not a programming language; instead, it uses tags to define elements like text, images, links, and forms.
