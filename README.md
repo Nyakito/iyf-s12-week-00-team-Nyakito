@@ -101,6 +101,86 @@ A complete HTML page follows a standard layout:
     </body>
     </html>
 
+---
+-Markdown (Markup language)
+
+## **What is Markup language**
+
+Markdown is a lightweight markup language created by John Gruber in 20004.Its used for adding formatting elements to plaintext documents.It uses simple symbols and characters to control how a text is displayed. It has gained popularity due to its readability, portability and broad application support.
+>In simple terms ,It is a simple markup language used to format text in documents such as README files.
+
+## **Markdown features** 
+
+1.Headings
+
+— H1 Heading 
+(# Heading 1)
+
+— H2 Heading
+(## Heading 2)
+
+ — H3 Heading 
+ (### Heading 3)
+ 
+2. Text Emphasis(* or _)
+ 
+    Italic
+ (* italic * or  _ italic _)
+ 
+    Bold 
+ (** bold ** or __ bold __)
+ 
+3. Lists and Quotes (-, *, or +)
+    
+ — Unordered list
+  *A list for groceries*
+ 
+    -Tomatoes
+    -Kales
+    -Carrots
+ 
+ — Ordered list 
+ 
+  *A list of different programming languages*
+  
+    1.Python
+    2.C
+    3.C++
+ 
+4.Blockquote(>)
+
+    (> Quote) 
+    
+    e.g >Yes we can
+
+6. Links
+
+    [Link text](url)
+
+ 8. Strikethrough ( ~~)
+
+    ( ~~strikethrough ~~ )
+### Advantages of Markdown
+
+
+
+    -Simple readability
+    -Fast writing speed
+    -Distraction-free focus
+    -Easy Universal conversion
+    -Version control friendly
+    -Supported across major developers such as Reddit, Discord,Github
+
+   #### Markdown Impact
+   
+1.Markdown has had a significant impact on how we write and present information online. Its simplicity and readability have transformed the process of creating and formatting text content, making it accessible to a broad range of users, from developers to bloggers.
+
+2.In web development, Markdown's ease of use has expedited the process of building static websites and crafting engaging content. This simple yet powerful tool allows developers to maintain focus on their code without getting entangled in intricate markup languages.
+
+3.In terms of documentation, Markdown has streamlined the way we convey complex technical information. Its adoption by platforms like GitHub for readme files speaks volumes about its significance in tech communities globally.
+
+---
+
 # Common Core Tags
 
 **1. &lt;h1&gt; to &lt;h6&gt;-** *Headings (from largest to smallest).*
