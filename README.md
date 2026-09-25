@@ -102,7 +102,7 @@ A complete HTML page follows a standard layout:
     </html>
 
 ---
--Markdown (Markup language)
+- Markdown (Markup language)
 
 ## **What is Markup language**
 
