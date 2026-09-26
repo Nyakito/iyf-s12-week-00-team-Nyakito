@@ -7,8 +7,8 @@
 
 ## Project Description
 
-This is week 00 Team collaboration and it majorly tests on git and GitHub, we will see how to Pull Requests,Merge, Review Changes and collaborate in one document, working together as a team, which is a very practical way of learning collaboration.
 
+**This project is a Team collaboration done in week 00 that tests on git and GitHub, here we see how to Pull Requests,Merge, Review Changes and collaborate in one document,as we work together as a team, which is a very practical way of learning collaboration.**
 
 ## Technologies Used
 - Markdown (Markup Language)
@@ -18,7 +18,7 @@ This is week 00 Team collaboration and it majorly tests on git and GitHub, we wi
 
 ## MEMBER SECTIONS
 - Git
-##What is Git
+## What is Git
 
 Git is a **distributed version control system** designed to track, manage, and organize changes made to files—especially source code—throughout the life of a software project. Instead of having to manually create copies of a project such as `project-final`, `project-final-2`, `project-final-REAL`, and `project-final-USE-THIS-ONE`.
 
@@ -61,7 +61,21 @@ In practice, Git becomes the backbone of a developer's workflow:
 
 ---
 - VsCode
+
+Visual Studio Code (VS Code) is a free source-code editor developed by Microsoft. It is commonly used by developers to write, edit, and manage code for different programming languages and technologies. VS Code supports features such as syntax highlighting, extensions, debugging, Git integration, and an integrated terminal.
+
+### Useful VS Code Features
+
+* **Extensions** — add extra functionality and support for different programming languages and tools.
+* **Integrated Terminal** — allows developers to run commands directly inside VS Code.
+* **Source Control** — provides a graphical interface for working with Git.
+* **IntelliSense** — provides code suggestions and helps developers write code more efficiently.
+* **Debugging** — helps developers find and fix errors in their programs.
+
+VS Code is particularly useful for web development because it supports technologies such as **HTML, CSS, and JavaScript**. It can also work with **Git and GitHub**, making it easier to edit files, manage changes, and collaborate with other developers.
+
 ---
+
 - HTML
 
 **HTML(HyperText Markup Language)** is the standard language used to build and structure web pages on the internet. It is not a programming language; instead, it uses tags to define elements like text, images, links, and forms.
@@ -87,6 +101,86 @@ A complete HTML page follows a standard layout:
     <a href="https://example.com">This is a link</a>
     </body>
     </html>
+
+---
+- Markdown (Markup language)
+
+## **What is Markup language**
+
+Markdown is a lightweight markup language created by John Gruber in 20004.Its used for adding formatting elements to plaintext documents.It uses simple symbols and characters to control how a text is displayed. It has gained popularity due to its readability, portability and broad application support.
+>In simple terms ,It is a simple markup language used to format text in documents such as README files.
+
+## **Markdown features** 
+
+1.Headings
+
+— H1 Heading 
+(# Heading 1)
+
+— H2 Heading
+(## Heading 2)
+
+ — H3 Heading 
+ (### Heading 3)
+ 
+2. Text Emphasis(* or _)
+ 
+    Italic
+ (* italic * or  _ italic _)
+ 
+    Bold 
+ (** bold ** or __ bold __)
+ 
+3. Lists and Quotes (-, *, or +)
+    
+ — Unordered list
+  *A list for groceries*
+ 
+    -Tomatoes
+    -Kales
+    -Carrots
+ 
+ — Ordered list 
+ 
+  *A list of different programming languages*
+  
+    1.Python
+    2.C
+    3.C++
+ 
+4.Blockquote(>)
+
+    (> Quote) 
+    
+    e.g >Yes we can
+
+6. Links
+
+    [Link text](url)
+
+ 8. Strikethrough ( ~~)
+
+    ( ~~strikethrough ~~ )
+### Advantages of Markdown
+
+
+
+    -Simple readability
+    -Fast writing speed
+    -Distraction-free focus
+    -Easy Universal conversion
+    -Version control friendly
+    -Supported across major developers such as Reddit, Discord,Github
+
+   #### Markdown Impact
+   
+1.Markdown has had a significant impact on how we write and present information online. Its simplicity and readability have transformed the process of creating and formatting text content, making it accessible to a broad range of users, from developers to bloggers.
+
+2.In web development, Markdown's ease of use has expedited the process of building static websites and crafting engaging content. This simple yet powerful tool allows developers to maintain focus on their code without getting entangled in intricate markup languages.
+
+3.In terms of documentation, Markdown has streamlined the way we convey complex technical information. Its adoption by platforms like GitHub for readme files speaks volumes about its significance in tech communities globally.
+
+---
 
 # Common Core Tags
 
