@@ -7,9 +7,6 @@
 
 ## Project Description
 
-
-**This project is a Team collaboration done in week 00 that tests on git and GitHub, here we see how to Pull Requests,Merge, Review Changes and collaborate in one document,as we work together as a team, which is a very practical way of learning collaboration.**
-
 This is week 00 Team collaboration and it majorly tests on git and GitHub, we will see how to Pull Requests,Merge, Review Changes and collaborate in one document, working together as a team, which is a very practical way of learning collaboration.
 
 
@@ -41,7 +38,7 @@ This makes Git extremely useful not only for recovering from mistakes, but also 
 
 Git becomes even more powerful when it is used for:
 
-### **collaboration and professional software development**. 
+### **Collaboration and professional software development**. 
 
 Multiple developers can work on different parts of the same project, create *branches* for their tasks, *commit* their changes, and eventually *merge* those changes together. Git records who made changes, when they were made, and what was changed, creating an auditable history of the project. When two developers modify the same part of a file, Git can identify the **conflict**, allowing the developers to decide which changes should remain or how the two versions should be combined. 
 
@@ -55,12 +52,12 @@ Git itself is the version-control technology; platforms such as **GitHub, GitLab
 6. Automated workflows and other development features. 
 
 In practice, Git becomes the backbone of a developer's workflow: 
-- you **clone** a project, 
-- make changes, **stage** them, 
-- **commit** them with meaningful descriptions, 
-- **push** them to a remote repository, 
-- **pull** other people's changes, 
-- create **branches** for new work, and **merge** completed work back together.
+- You **clone** a project, 
+- Make changes, **stage** them, 
+- **Commit** them with meaningful descriptions, 
+- **Push** them to a remote repository, 
+- **Pull** other people's changes, 
+- Create **branches** for new work, and **merge** completed work back together.
 
 ---
 - VsCode
@@ -118,3 +115,4 @@ What problems did you encounter and how did you solve them?
 
 ## Collaboration
 - **Team Member:** [@Nyakito](https://github.com/Nyakito)
+- **Team Member:** [@tracey](https://github.com/traceywanjiru)
