@@ -107,7 +107,7 @@ A complete HTML page follows a standard layout:
 
 ## **What is Markup language**
 
-Markdown is a lightweight markup language created by John Gruber in 20004.Its used for adding formatting elements to plaintext documents.It uses simple symbols and characters to control how a text is displayed. It has gained popularity due to its readability, portability and broad application support.
+Markdown is a lightweight markup language created by John Gruber in 2004.It's used for adding formatting elements to plaintext documents.It uses simple symbols and characters to control how a text is displayed. It has gained popularity due to its readability, portability and broad application support.
 >In simple terms ,It is a simple markup language used to format text in documents such as README files.
 
 ## **Markdown features** 
