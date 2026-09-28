@@ -86,7 +86,7 @@ HTML elements are enclosed in angle brackets (< >). Most elements have an openin
 
 **Example:**
 
->"&lt;p&gt;Welcome to my website&lt;p&gt;"
+>"&lt;p&gt;Welcome to my website&lt;/p&gt;"
 
 A complete HTML page follows a standard layout:
 
