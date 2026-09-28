@@ -210,3 +210,4 @@ What problems did you encounter and how did you solve them?
 ## Collaboration
 - **Team Member:** [@Nyakito](https://github.com/Nyakito)
 - **Team Member:** [@tracey](https://github.com/traceywanjiru)
+- **Team Member:** [@Shaniz](https://github.com/Samcodex-405)
