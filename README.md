@@ -11,7 +11,7 @@
 **This project is a Team collaboration done in week 00 that tests on git and GitHub, here we see how to Pull Requests,Merge, Review Changes and collaborate in one document,as we work together as a team, which is a very practical way of learning collaboration.**
 
 ## Technologies Used
-- Markdown (Markup Language)
+- Markdown (*Markup Language*)
 - Vscode
 - Git
 - Github
@@ -40,7 +40,7 @@ Git becomes even more powerful when it is used for:
 
 ### **Collaboration and professional software development**. 
 
-Multiple developers can work on different parts of the same project, create *branches* for their tasks, *commit* their changes, and eventually *merge* those changes together. Git records who made changes, when they were made, and what was changed, creating an auditable history of the project. When two developers modify the same part of a file, Git can identify the **conflict**, allowing the developers to decide which changes should remain or how the two versions should be combined. 
+Multiple developers can **work** on different parts of the same project, create *branches* for their tasks, *commit* their changes, and eventually *merge* those changes together. Git records who made changes, when they were made, and what was changed, creating an auditable history of the project. When two developers modify the same part of a file, Git can identify the **conflict**, allowing the developers to decide which changes should remain or how the two versions should be combined. 
 
 Git itself is the version-control technology; platforms such as **GitHub, GitLab, and Bitbucket** build on top of Git by providing:
 
@@ -49,9 +49,9 @@ Git itself is the version-control technology; platforms such as **GitHub, GitLab
 3. Pull requests
 4. Code reviews
 5. Issue tracking
-6. Automated workflows and other development features. 
+6. Automated workflows and other development features.
 
-In practice, Git becomes the backbone of a developer's workflow: 
+In practice, **Git** becomes the backbone of a developer's workflow: 
 - You **clone** a project, 
 - Make changes, **stage** them, 
 - **Commit** them with meaningful descriptions, 
