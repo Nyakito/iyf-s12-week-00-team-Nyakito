@@ -209,4 +209,4 @@ What problems did you encounter and how did you solve them?
 - **Team Member:** [@Nyakito](https://github.com/Nyakito)
 - **Team Member:** [@tracey](https://github.com/traceywanjiru)
 - **Team Member:** [@Shaniz](https://github.com/Samcodex-405)
-- **Team Member:** [@Maina](https://github.com/ElvisMaina-ctr)
+- **Team Member:** [@Elvis](https://github.com/ElvisMaina-ctr)
